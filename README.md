@@ -1,8 +1,8 @@
-#  yewwwkook
+#  Yewwwkook
 
 ![yewwwkook logo](./assets/yewwwkookLogo.png)
 
-**yewwwkook** is an app that delivers real-time surf reports — straight from the beach.  
+**Yewwwkook** is an app that delivers real-time surf reports — straight from the beach.  
 No stale forecasts. No broken surf cams. Just raw, honest updates from fellow wave chasers.
 
 ---
